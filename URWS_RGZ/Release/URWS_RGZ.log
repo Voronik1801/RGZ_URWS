@@ -1,0 +1,38 @@
+﻿  MonitorInfo.cpp
+  RDTSC.cpp
+Y:\OneDrive - riverw\ДАША\ВУЗ\6 семестр\УРВС\ргз\code\URWS_RGZ\URWS_RGZ\RDTSC.cpp(8,42): error C2664: "BOOL GetUserNameW(LPWSTR,LPDWORD)": невозможно преобразовать аргумент 1 из "char *" в "LPWSTR"
+Y:\OneDrive - riverw\ДАША\ВУЗ\6 семестр\УРВС\ргз\code\URWS_RGZ\URWS_RGZ\RDTSC.cpp(8,14): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(7192,1): message : см. объявление "GetUserNameW"
+  URWS_RGZ.cpp
+Y:\OneDrive - riverw\ДАША\ВУЗ\6 семестр\УРВС\ргз\code\URWS_RGZ\URWS_RGZ\URWS_RGZ.cpp(69,154): error C2664: "int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)": невозможно преобразовать аргумент 2 из "const char [49]" в "LPCWSTR"
+Y:\OneDrive - riverw\ДАША\ВУЗ\6 семестр\УРВС\ргз\code\URWS_RGZ\URWS_RGZ\URWS_RGZ.cpp(69,22): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(9153,1): message : см. объявление "MessageBoxW"
+Y:\OneDrive - riverw\ДАША\ВУЗ\6 семестр\УРВС\ргз\code\URWS_RGZ\URWS_RGZ\URWS_RGZ.cpp(76,117): error C2664: "int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)": невозможно преобразовать аргумент 2 из "const char [32]" в "LPCWSTR"
+Y:\OneDrive - riverw\ДАША\ВУЗ\6 семестр\УРВС\ргз\code\URWS_RGZ\URWS_RGZ\URWS_RGZ.cpp(76,21): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(9153,1): message : см. объявление "MessageBoxW"
+Y:\OneDrive - riverw\ДАША\ВУЗ\6 семестр\УРВС\ргз\code\URWS_RGZ\URWS_RGZ\URWS_RGZ.cpp(92,120): error C2664: "int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)": невозможно преобразовать аргумент 2 из "const char [34]" в "LPCWSTR"
+Y:\OneDrive - riverw\ДАША\ВУЗ\6 семестр\УРВС\ргз\code\URWS_RGZ\URWS_RGZ\URWS_RGZ.cpp(92,22): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(9153,1): message : см. объявление "MessageBoxW"
+Y:\OneDrive - riverw\ДАША\ВУЗ\6 семестр\УРВС\ргз\code\URWS_RGZ\URWS_RGZ\URWS_RGZ.cpp(99,117): error C2664: "int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)": невозможно преобразовать аргумент 2 из "const char [32]" в "LPCWSTR"
+Y:\OneDrive - riverw\ДАША\ВУЗ\6 семестр\УРВС\ргз\code\URWS_RGZ\URWS_RGZ\URWS_RGZ.cpp(99,21): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(9153,1): message : см. объявление "MessageBoxW"
+Y:\OneDrive - riverw\ДАША\ВУЗ\6 семестр\УРВС\ргз\code\URWS_RGZ\URWS_RGZ\URWS_RGZ.cpp(141,55): error C2664: "BOOL SetWindowTextW(HWND,LPCWSTR)": невозможно преобразовать аргумент 2 из "char *" в "LPCWSTR"
+Y:\OneDrive - riverw\ДАША\ВУЗ\6 семестр\УРВС\ргз\code\URWS_RGZ\URWS_RGZ\URWS_RGZ.cpp(141,39): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(8902,1): message : см. объявление "SetWindowTextW"
+Y:\OneDrive - riverw\ДАША\ВУЗ\6 семестр\УРВС\ргз\code\URWS_RGZ\URWS_RGZ\URWS_RGZ.cpp(143,55): error C2664: "BOOL SetWindowTextW(HWND,LPCWSTR)": невозможно преобразовать аргумент 2 из "char *" в "LPCWSTR"
+Y:\OneDrive - riverw\ДАША\ВУЗ\6 семестр\УРВС\ргз\code\URWS_RGZ\URWS_RGZ\URWS_RGZ.cpp(143,39): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(8902,1): message : см. объявление "SetWindowTextW"
+Y:\OneDrive - riverw\ДАША\ВУЗ\6 семестр\УРВС\ргз\code\URWS_RGZ\URWS_RGZ\URWS_RGZ.cpp(144,38): error C2664: "BOOL SetWindowTextW(HWND,LPCWSTR)": невозможно преобразовать аргумент 2 из "char [256]" в "LPCWSTR"
+Y:\OneDrive - riverw\ДАША\ВУЗ\6 семестр\УРВС\ргз\code\URWS_RGZ\URWS_RGZ\URWS_RGZ.cpp(144,29): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(8902,1): message : см. объявление "SetWindowTextW"
+Y:\OneDrive - riverw\ДАША\ВУЗ\6 семестр\УРВС\ргз\code\URWS_RGZ\URWS_RGZ\URWS_RGZ.cpp(182,33): error C2440: =: невозможно преобразовать "LPCSTR" в "LPCWSTR"
+Y:\OneDrive - riverw\ДАША\ВУЗ\6 семестр\УРВС\ргз\code\URWS_RGZ\URWS_RGZ\URWS_RGZ.cpp(182,22): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+Y:\OneDrive - riverw\ДАША\ВУЗ\6 семестр\УРВС\ргз\code\URWS_RGZ\URWS_RGZ\URWS_RGZ.cpp(194,1): error C2664: "HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)": невозможно преобразовать аргумент 2 из "LPCSTR" в "LPCWSTR"
+Y:\OneDrive - riverw\ДАША\ВУЗ\6 семестр\УРВС\ргз\code\URWS_RGZ\URWS_RGZ\URWS_RGZ.cpp(194,1): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(4436,1): message : см. объявление "CreateWindowExW"
+Y:\OneDrive - riverw\ДАША\ВУЗ\6 семестр\УРВС\ргз\code\URWS_RGZ\URWS_RGZ\URWS_RGZ.cpp(208,1): error C2664: "HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)": невозможно преобразовать аргумент 2 из "const char [7]" в "LPCWSTR"
+Y:\OneDrive - riverw\ДАША\ВУЗ\6 семестр\УРВС\ргз\code\URWS_RGZ\URWS_RGZ\URWS_RGZ.cpp(208,1): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(4436,1): message : см. объявление "CreateWindowExW"
+Y:\OneDrive - riverw\ДАША\ВУЗ\6 семестр\УРВС\ргз\code\URWS_RGZ\URWS_RGZ\URWS_RGZ.cpp(221,1): error C2664: "HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)": невозможно преобразовать аргумент 2 из "const char [7]" в "LPCWSTR"
+Y:\OneDrive - riverw\ДАША\ВУЗ\6 семестр\УРВС\ргз\code\URWS_RGZ\URWS_RGZ\URWS_RGZ.cpp(221,1): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(4436,1): message : см. объявление "CreateWindowExW"
